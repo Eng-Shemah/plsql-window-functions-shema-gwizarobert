@@ -1,3 +1,5 @@
+--Tables creation
+
 CREATE TABLE customers (
     customer_id NUMBER PRIMARY KEY,
     name VARCHAR2(100),
@@ -18,6 +20,7 @@ CREATE TABLE transactions (
     amount NUMBER
 );
 
+-- Data insertation
 
 INSERT INTO customers (customer_id, name, region) VALUES (1001, 'Alice Uwera', 'Kigali');
 INSERT INTO customers (customer_id, name, region) VALUES (1002, 'Bob Niyonkuru', 'Butare');
