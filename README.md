@@ -107,7 +107,9 @@ Growth patterns show variable month-over-month changes as the business establish
   02_window_functions_analysis.pdf   - Window function queries
 /analysis/
   02_window_functions_analysis.pdf - Detailed query results and interpretations
-README.md                   - Project documentation (this file)
+  README.md                   - Project documentation (this file)
+/diagram/
+  ER_Diagram.PNG         - Entity Relation diagram
 ```
 
 ## How to Run
