@@ -104,7 +104,7 @@ Growth patterns show variable month-over-month changes as the business establish
 ```
 /sql-scripts/
   01_schema_and_data.sql    - Table creation and sample data insertion
-  02_window_functions.pdf   - Window function queries
+  02_window_functions_analysis.pdf   - Window function queries
 /analysis/
   02_window_functions_analysis.pdf - Detailed query results and interpretations
 README.md                   - Project documentation (this file)
